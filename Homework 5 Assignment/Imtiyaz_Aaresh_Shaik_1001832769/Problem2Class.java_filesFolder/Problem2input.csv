@@ -1,0 +1,26 @@
+1,1,1,1,4000,8-10-14-15-21,Statement 8 TTF Statament 14 TT
+2,1,1,5,4000,8-14-15-21,Statement 8 FTF Statament 14 TT
+3,2,1,10,1,8-14-15-21,Statement 8 FTT Statament 14 FT
+4,2,1,50,1,8-14-17-21,Statement 8 FFT Statament 14 FT
+5,2,1,1,1,-,Statement 8 TTF Statament 14 FT
+6,2,1,5,1,-,Statement 8 FTF Statament 14 TF
+7,1,2,1,380,-,Statement 8 TTF Statament 14 TF
+8,1,2,5,380,-,Statement 8 FTF Statament 14 TF
+9,1,2,10,380,-,Statement 8 FTT Statament 14 TF
+10,1,2,50,380,-,Statement 8 FFT Statament 14 TT
+11,1,1,10,4000,-,Statement 8 FTT Statament 14 TT
+12,1,1,50,4000,-,Statement 8 FFT Statament 14 TF
+13,1,2,100000,380,,
+14,1,10,1,3640,,
+15,1,2,2,380,,
+16,1,2,4,380,,
+17,1,2,6,380,,
+18,1,2,9,380,,
+19,1,2,11,380,,
+20,1,2,59,380,,
+21,1,2,51,380,,
+22,380,2,1,759,,
+23,400,2,1,779,,
+24,420,2,1,799,,
+25,430,2,1,809,,
+26,480,2,1,859,,
